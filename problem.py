@@ -1,2 +1,3 @@
 def h():
-  print(hi)
+  print("hi")
+print(h())
